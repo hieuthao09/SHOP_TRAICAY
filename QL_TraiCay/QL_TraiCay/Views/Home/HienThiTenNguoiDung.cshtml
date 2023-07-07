@@ -1,0 +1,11 @@
+﻿@model string
+
+
+@if (ViewBag.is_sign_in == "0")
+{
+    <span>@Model</span>
+}
+else
+{
+    <a href="/Home/DangXuat"> @ViewBag.is_sign_in |  Đăng xuất</a>
+}

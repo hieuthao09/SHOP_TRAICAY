@@ -1,0 +1,18 @@
+﻿@model QL_TraiCay.Models.LOAITRAICAY
+
+@{
+    ViewBag.Title = "ChiTiet_LTC";
+    Layout = "~/Views/Shared/QLy_LayoutPage1.cshtml";
+}
+
+<div class="container-fluid text-center mt-4">
+    <h2 class=" text-primary">Chi Tiết Loại Trái Cây</h2>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.TENLOAI)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.TENLOAI)
+    </div>
+    @Html.ActionLink("Edit", "Edit_LTC", new { id = Model.MALOAI }) |
+    @Html.ActionLink("Back to List", "Loaitc")
+</div>

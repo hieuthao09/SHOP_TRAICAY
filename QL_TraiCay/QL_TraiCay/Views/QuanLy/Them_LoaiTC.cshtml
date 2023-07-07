@@ -1,0 +1,40 @@
+﻿@model QL_TraiCay.Models.LOAITRAICAY
+
+@{
+    ViewBag.Title = "Them_LoaiTC";
+    Layout = "~/Views/Shared/QLy_LayoutPage1.cshtml";
+}
+<div class="container-fluid text-center">
+    <h2 class=" text-success m-2">Thêm Loại Trái Cây</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+    <div class="editor-label m-3">
+        Mã Loại
+    </div>
+    <div class="editor-field m-3">
+        @Html.EditorFor(model => model.MALOAI)
+        @Html.ValidationMessageFor(model => model.MALOAI)
+    </div>
+
+    <div class="editor-label m-3">
+        Tên Loại
+    </div>
+    <div class="editor-field m-3">
+        @Html.EditorFor(model => model.TENLOAI)
+        @Html.ValidationMessageFor(model => model.TENLOAI)
+    </div>
+
+    <p>
+        <input class="btn btn-success w-25" type="submit" value="Thêm mới" />
+    </p>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Loaitc")
+    </div>
+</div>
+
+
+

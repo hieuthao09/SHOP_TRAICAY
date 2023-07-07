@@ -1,0 +1,120 @@
+﻿@model QL_TraiCay.Models.TRAICAY
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/QLy_LayoutPage1.cshtml";
+}
+
+     <form method="post" action="/QuanLy/XuLySua" enctype="multipart/form-data">
+    
+        <fieldset>
+            <legend>TRAICAY</legend>
+    
+            @Html.HiddenFor(model => model.MATC)
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.MALOAI)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.MALOAI)
+                @Html.ValidationMessageFor(model => model.MALOAI)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.TENTC)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.TENTC)
+                @Html.ValidationMessageFor(model => model.TENTC)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.DONVI)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.DONVI)
+                @Html.ValidationMessageFor(model => model.DONVI)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.GIAMOI)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.GIAMOI)
+                @Html.ValidationMessageFor(model => model.GIAMOI)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.CHITIET)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.CHITIET)
+                @Html.ValidationMessageFor(model => model.CHITIET)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.HSD)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.HSD)
+                @Html.ValidationMessageFor(model => model.HSD)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.NSX)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.NSX)
+                @Html.ValidationMessageFor(model => model.NSX)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.GIAMGIA)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.GIAMGIA)
+                @Html.ValidationMessageFor(model => model.GIAMGIA)
+            </div>
+    
+            <div>
+                Danh sách hình ảnh
+                @ViewBag.Thongbao
+            </div>
+            <div>
+                <input type="file" name="fLoad" multiple="multiple" class="form-control" />
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.LUOTXEM)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.LUOTXEM)
+                @Html.ValidationMessageFor(model => model.LUOTXEM)
+            </div>
+    
+            <div>
+                Trạng thái
+            </div>
+            <div>
+                <label>Còn</label>
+                <input type="radio" name="TRANGTHAI" value="true" />
+                <label>Hết</label>
+                <input type="radio" name="TRANGTHAI" value="false" />
+            </div>
+            <div>
+                Hình ảnh
+                @ViewBag.Thongbao
+            </div>
+
+            <div>
+                <input type="file" name="fLoad" class="form-control" />
+            </div>
+            <p>
+                <input type="submit" value="Save" />
+            </p>
+        </fieldset>
+</form>
+    
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>

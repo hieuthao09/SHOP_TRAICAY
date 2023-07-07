@@ -1,0 +1,125 @@
+﻿@model QL_TraiCay.Models.TRAICAY
+@using QL_TraiCay.Models
+@{
+    ViewBag.Title = "Thêm trái cây";
+    Layout = "~/Views/Shared/QLy_LayoutPage1.cshtml";
+}
+@{
+    List<LOAITRAICAY> ltc = ViewBag.MaLoai;
+}
+
+<div class="container-fluid">
+    <h2 class=" text-success m-2 text-center">Thêm Loại Trái Cây</h2>
+    <form method="post" action="/QuanLy/Them_TC" enctype="multipart/form-data">
+        <div class="editor-label">
+            Mã trái cây
+        </div>
+        <div class="editor-field ">
+            <input type="text" name="MATC" class="form-control" />
+        </div>
+        <div class="editor-label">
+            Mã Loại
+        </div>
+        <div class="editor-field">
+
+            <select id="ml" name="MALOAI" class="form-control">
+                @foreach (var i in ltc)
+                {
+                    <option value="@i.MALOAI">@i.TENLOAI</option>
+                }
+            </select>
+        </div>
+
+        <div class="editor-label">
+            Tên trái cây
+        </div>
+        <div class="editor-field">
+            <input type="text" name="TENTC" class="form-control" />
+        </div>
+
+        <div class="editor-label">
+            Đơn vị
+        </div>
+        <div class="editor-field ">
+            <input type="text" name="DONVI" class="form-control" />
+        </div>
+
+        <div class="editor-label ">
+            Giá
+        </div>
+        <div class="editor-field ">
+            <input type="text" name="GIAMOI" class="form-control" />
+        </div>
+
+        <div class="editor-label">
+            Chi tiết
+        </div>
+        <div class="editor-field">
+            <input type="text" name="CHITIET" class="form-control" />
+        </div>
+
+        @*<div class="editor-label">
+               Hạn sử dụng
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.HSD)
+                @Html.ValidationMessageFor(model => model.HSD)
+            </div>
+
+            <div class="editor-label">
+                Ngày sản xuất
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.NSX)
+                @Html.ValidationMessageFor(model => model.NSX)
+            </div>*@
+
+        <div class="editor-label">
+            Giảm giá
+        </div>
+        <div class="editor-field">
+            <input type="text" name="GIAMGIA" class="form-control" />
+        </div>
+
+        <div>
+            List Hình ảnh
+        </div>
+        <div>
+            <input class="form-control" type="file" name="fupload" />
+        </div>
+
+        @*<div class="editor-label">
+               Lượt xem
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.LUOTXEM)
+                @Html.ValidationMessageFor(model => model.LUOTXEM)
+            </div>*@
+
+        <div class="editor-label ">
+            Trạng thái
+        </div>
+        <div class="editor-field ">
+            @Html.EditorFor(model => model.TRANGTHAI)
+            @Html.ValidationMessageFor(model => model.TRANGTHAI)
+        </div>
+
+        <div>
+            Hình ảnh
+        </div>
+        <div>
+            <input type="file" name="fupload" class="form-control" />
+        </div>
+        <br />
+        <p>
+            <input class=" btn btn-success form-control" type="submit" value="Tạo mới" />
+        </p>
+    </form>
+
+        <div>
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+</div>
+  
+
+

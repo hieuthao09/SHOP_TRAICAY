@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 13.75, 14.625" name="QL_TraiCay">
+  <DataContextMoniker Name="/QL_TraiCayDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8d751404-69c0-4eb0-b8b3-4d2a0e8e3fe9" absoluteBounds="4.25, 12.875, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/_ADMIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5dfdd29d-f61e-4218-a278-c9d38c859fd6" absoluteBounds="4.265, 13.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3bcbbd1a-ddc9-46eb-a658-26abf38b816e" absoluteBounds="1.5, 12.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/TAIKHOAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe0b5777-facf-4c02-80d1-9c4d569a1666" absoluteBounds="1.5150000000000001, 13.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="61eecf21-0d8b-48c4-802d-d2501d179ddf" absoluteBounds="0.75, 7.375, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/_USER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a746c661-f8c1-450f-94e3-53534d50cbb7" absoluteBounds="0.765, 7.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1b071e05-72d0-40b0-812d-316c033bca57" absoluteBounds="3.5, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/CHITIETDONHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e40b6548-e978-469a-bdca-00df87b8421b" absoluteBounds="3.515, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="742b125c-6e38-45ae-ad14-835c7a408d43" absoluteBounds="4.25, 10.75, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/CHITIETGIOHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="22f90de0-27f0-48f9-981e-9fabcd89e547" absoluteBounds="4.265, 11.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="99d1f36a-c10b-4350-91cd-4a1a1f382c80" absoluteBounds="3.5, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/CHITIETVANCHUYEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6ee28f94-22f6-45f7-9999-7202e901edac" absoluteBounds="3.515, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f61fabef-b8b4-4f92-a487-4a359a33d39a" absoluteBounds="0.75, 4, 2, 1.1939925130208331">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/DONHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cf516644-c67b-4ef7-95d4-4079a2199682" absoluteBounds="0.765, 4.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c1414271-11bf-4c94-9ec3-f7a19aa22ffb" absoluteBounds="0.75, 1, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/DONVIVANCHUYEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4a8d9817-a205-4a21-9a66-50db58ea357e" absoluteBounds="0.765, 1.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="80a9ef2b-a822-4177-8387-a8049dc239b9" absoluteBounds="3.5, 6.5, 2, 2.1554996744791657">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/GIAODICH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6e6c58b2-0b05-4980-b768-571dead37ffc" absoluteBounds="3.515, 6.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b9743613-2bc9-425e-86aa-893757965621" absoluteBounds="1.5, 10.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/GIOHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0b6c9cfe-7ea6-4216-9f09-2848136ff541" absoluteBounds="1.5150000000000001, 11.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4f8077ce-a01a-4bec-b484-89b0101c1ba3" absoluteBounds="6.75, 6.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/LOAITRAICAY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc290dd8-3c34-45d5-86e1-02116c1119f7" absoluteBounds="6.765, 7.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a804c77f-8764-4bfe-b69b-d0e85242a599" absoluteBounds="9.5, 4, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/NHACC_TRAICAY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e7cf7c38-9f9a-4c00-82eb-36975fff5bcc" absoluteBounds="9.515, 4.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ee9b90f0-52e3-456a-8ca3-277251cd26d4" absoluteBounds="6.75, 3.875, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/NHACUNGCAP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d3574e3-6122-4c82-b779-84b071039000" absoluteBounds="6.765, 4.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="afbd1f6b-be15-4ebe-9d76-9b72ac7e1e47" absoluteBounds="6.75, 0.875, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/NHASANXUAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a229ad92-8131-4c43-9717-fdda00aac3d4" absoluteBounds="6.765, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7790ef6c-6536-42cd-b4ab-36dbba98e027" absoluteBounds="9.5, 1.25, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/NHASX_TRAICAY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="afb26011-ccd0-4990-a8f9-3ffa9e6ee586" absoluteBounds="9.515, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.5 : 13.5681469726562); (4.25 : 13.5681469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/TAIKHOAN/TAIKHOAN__ADMIN" />
+      <nodes>
+        <classShapeMoniker Id="3bcbbd1a-ddc9-46eb-a658-26abf38b816e" />
+        <classShapeMoniker Id="8d751404-69c0-4eb0-b8b3-4d2a0e8e3fe9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.5 : 13.5392976888021); (1.1249995 : 13.5392976888021); (1.1249995 : 9.72280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/TAIKHOAN/TAIKHOAN__USER" />
+      <nodes>
+        <classShapeMoniker Id="3bcbbd1a-ddc9-46eb-a658-26abf38b816e" />
+        <classShapeMoniker Id="61eecf21-0d8b-48c4-802d-d2501d179ddf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.59699625651042); (3.5 : 4.59699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/DONHANG/DONHANG_CHITIETDONHANG" />
+      <nodes>
+        <classShapeMoniker Id="f61fabef-b8b4-4f92-a487-4a359a33d39a" />
+        <classShapeMoniker Id="1b071e05-72d0-40b0-812d-316c033bca57" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.00091745577925); (3.125 : 3.62591745577925); (3.125 : 1.53929768880208); (3.5 : 1.53929768880208)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/DONHANG/DONHANG_CHITIETVANCHUYEN" />
+      <nodes>
+        <classShapeMoniker Id="f61fabef-b8b4-4f92-a487-4a359a33d39a" />
+        <classShapeMoniker Id="99d1f36a-c10b-4350-91cd-4a1a1f382c80" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.92914510091146); (3.04166666666667 : 1.92914510091146 : JumpStart); (3.20833333333333 : 1.92914510091146 : JumpEnd); (3.5 : 1.92914510091146)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/DONVIVANCHUYEN/DONVIVANCHUYEN_CHITIETVANCHUYEN" />
+      <nodes>
+        <classShapeMoniker Id="c1414271-11bf-4c94-9ec3-f7a19aa22ffb" />
+        <classShapeMoniker Id="99d1f36a-c10b-4350-91cd-4a1a1f382c80" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 8.01524983723958); (3.5 : 8.01524983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/_USER/_USER_GIAODICH" />
+      <nodes>
+        <classShapeMoniker Id="61eecf21-0d8b-48c4-802d-d2501d179ddf" />
+        <classShapeMoniker Id="80a9ef2b-a822-4177-8387-a8049dc239b9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.19399251302083); (3.125 : 5.56899251302083); (3.125 : 7.22637291861979); (3.5 : 7.22637291861979)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/DONHANG/DONHANG_GIAODICH" />
+      <nodes>
+        <classShapeMoniker Id="f61fabef-b8b4-4f92-a487-4a359a33d39a" />
+        <classShapeMoniker Id="80a9ef2b-a822-4177-8387-a8049dc239b9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.125 : 10.75); (2.125 : 9.72280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/GIOHANG/GIOHANG__USER" />
+      <nodes>
+        <classShapeMoniker Id="b9743613-2bc9-425e-86aa-893757965621" />
+        <classShapeMoniker Id="61eecf21-0d8b-48c4-802d-d2501d179ddf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.5 : 11.3469962565104); (4.25 : 11.3469962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/GIOHANG/GIOHANG_CHITIETGIOHANG" />
+      <nodes>
+        <classShapeMoniker Id="b9743613-2bc9-425e-86aa-893757965621" />
+        <classShapeMoniker Id="742b125c-6e38-45ae-ad14-835c7a408d43" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 4.88544840494792); (9.5 : 4.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/NHACUNGCAP/NHACUNGCAP_NHACC_TRAICAY" />
+      <nodes>
+        <classShapeMoniker Id="ee9b90f0-52e3-456a-8ca3-277251cd26d4" />
+        <classShapeMoniker Id="a804c77f-8764-4bfe-b69b-d0e85242a599" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 1.84699625651042); (9.5 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/NHASANXUAT/NHASANXUAT_NHASX_TRAICAY" />
+      <nodes>
+        <classShapeMoniker Id="afbd1f6b-be15-4ebe-9d76-9b72ac7e1e47" />
+        <classShapeMoniker Id="7790ef6c-6536-42cd-b4ab-36dbba98e027" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a388141c-e777-4246-96d3-fe9864a368ab" absoluteBounds="11.5, 9.25, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/QL_TraiCayDataContext/TRAICAY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="58cb27d5-7a0e-466d-b9de-80c390dafa39" absoluteBounds="11.515, 9.71, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(12.53125 : 9.25); (12.53125 : 3.78125); (5.5 : 3.78125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/TRAICAY/TRAICAY_CHITIETDONHANG" />
+      <nodes>
+        <classShapeMoniker Id="a388141c-e777-4246-96d3-fe9864a368ab" />
+        <classShapeMoniker Id="1b071e05-72d0-40b0-812d-316c033bca57" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.5 : 11.4431469726562); (6.25 : 11.4431469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/TRAICAY/TRAICAY_CHITIETGIOHANG" />
+      <nodes>
+        <classShapeMoniker Id="a388141c-e777-4246-96d3-fe9864a368ab" />
+        <classShapeMoniker Id="742b125c-6e38-45ae-ad14-835c7a408d43" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(12.0156225 : 9.25); (12.0156225 : 4.88544840494792); (11.5 : 4.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/TRAICAY/TRAICAY_NHACC_TRAICAY" />
+      <nodes>
+        <classShapeMoniker Id="a388141c-e777-4246-96d3-fe9864a368ab" />
+        <classShapeMoniker Id="a804c77f-8764-4bfe-b69b-d0e85242a599" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.0468775 : 9.25); (13.0468775 : 1.84699625651042); (11.5 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/TRAICAY/TRAICAY_NHASX_TRAICAY" />
+      <nodes>
+        <classShapeMoniker Id="a388141c-e777-4246-96d3-fe9864a368ab" />
+        <classShapeMoniker Id="7790ef6c-6536-42cd-b4ab-36dbba98e027" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.75 : 7.94399251302083); (7.75 : 10.3153209863281); (11.5 : 10.3153209863281)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TraiCayDataContext/LOAITRAICAY/LOAITRAICAY_TRAICAY" />
+      <nodes>
+        <classShapeMoniker Id="4f8077ce-a01a-4bec-b484-89b0101c1ba3" />
+        <classShapeMoniker Id="a388141c-e777-4246-96d3-fe9864a368ab" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,42 @@
+﻿@model QL_TraiCay.Models.LOAITRAICAY
+
+@{
+    ViewBag.Title = "Edit_LTC";
+    Layout = "~/Views/Shared/QLy_LayoutPage1.cshtml";
+}
+
+
+<div class="container mt-3 text-center">
+    <h2 class="mt-3">Sửa loại trái cây</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <div class="editor-label m-3">
+            Mã Loại
+        </div>
+        <div class="editor-field m-3">
+            @Html.EditorFor(model => model.MALOAI)
+            @Html.ValidationMessageFor(model => model.MALOAI)
+        </div>
+
+        <div class="editor-label m-2">
+            Tên Loại
+        </div>
+        <div class="editor-field m-2">
+            @Html.EditorFor(model => model.TENLOAI)
+            @Html.ValidationMessageFor(model => model.TENLOAI)
+        </div>
+
+        <p>
+            <input class="w-25 btn btn-success" type="submit" value="Lưu" />
+        </p>
+    }
+</div>
+
+
+<div class="text-center">
+    @Html.ActionLink("Back to List", "Loaitc")
+</div>

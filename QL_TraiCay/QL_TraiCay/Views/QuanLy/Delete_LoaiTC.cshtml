@@ -1,0 +1,32 @@
+﻿@model QL_TraiCay.Models.LOAITRAICAY
+
+@{
+    ViewBag.Title = "Delete_LoaiTC";
+    Layout = "~/Views/Shared/QLy_LayoutPage1.cshtml";
+}
+
+<h2 class="text-center">Xóa loại trái cây</h2>
+
+<h3 class="text-center">Bạn có muốn xóa không?</h3>
+<div class="container text-center">
+    <div class="editor-label m-3">
+        Mã Loại
+    </div>
+    <div class="display-field m-3">
+        @Html.DisplayFor(model => model.MALOAI)
+    </div>
+    <div class="display-label m-3">
+        Tên loại
+    </div>
+    <div class="display-field m-3">
+        @Html.DisplayFor(model => model.TENLOAI)
+    </div>
+</div>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p class="text-center">
+        <input class="btn btn-success w-25" type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Loaitc")
+    </p>
+}

@@ -1,0 +1,42 @@
+﻿@model IEnumerable<QL_TraiCay.Models.LOAITRAICAY>
+
+@{
+    ViewBag.Title = "Loaitc";
+    Layout = "~/Views/Shared/QLy_LayoutPage1.cshtml";
+}
+
+<h2 class="text-center text-success m-2">DANH SÁCH LOẠI TRÁI CÂY</h2>
+
+<p>
+    @Html.ActionLink("Tạo mới", "Them_LoaiTC")
+</p>
+<table class="table table-hover table-striped">
+    <tr>
+        <th>
+            Mã Loại Trái Cây
+        </th>
+        <th>
+            Tên Loại Trái Cây
+        </th>
+        <th>
+
+        </th>
+     @foreach(var item in Model)  
+     {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MALOAI)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TENLOAI)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Edit", "Edit_LTC", new { id = item.MALOAI }) |
+                @Html.ActionLink("Details", "ChiTiet_LTC", new { id = item.MALOAI }) |
+                @Html.ActionLink("Delete", "Delete_LoaiTC", new { id = item.MALOAI })
+            </td>
+        </tr>
+    }
+
+</table>

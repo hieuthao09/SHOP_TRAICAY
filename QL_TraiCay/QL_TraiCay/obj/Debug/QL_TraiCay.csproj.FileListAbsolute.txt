@@ -1,0 +1,234 @@
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll.config
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.pdb
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\Antlr3.Runtime.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\EntityFramework.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Optimization.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Providers.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\WebGrease.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\EntityFramework.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll.config
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\Antlr3.Runtime.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\EntityFramework.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.Optimization.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.Providers.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\WebGrease.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\EntityFramework.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csprojResolveAssemblyReference.cache
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\QL_TraiCay.dll.config
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\Antlr3.Runtime.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\EntityFramework.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\Newtonsoft.Json.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.Mvc.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.Optimization.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.Providers.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.WebPages.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\WebGrease.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\EntityFramework.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\Newtonsoft.Json.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.Mvc.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.WebPages.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\obj\Debug\QL_TraiCay.csprojResolveAssemblyReference.cache
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll.config
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Antlr3.Runtime.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Optimization.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Providers.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\WebGrease.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csprojResolveAssemblyReference.cache
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\WEBSITE TRÁI CÂY\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll.config
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.pdb
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Antlr3.Runtime.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Optimization.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Providers.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\WebGrease.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+C:\Users\PC THAO\OneDrive\Tài liệu\Đặt tạm\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll.config
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.pdb
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Antlr3.Runtime.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Optimization.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Providers.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\WebGrease.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csproj.AssemblyReference.cache
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csproj.CoreCompileInputs.cache
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csproj.CopyComplete
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+C:\Users\kingg\OneDrive\Desktop\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll.config
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.pdb
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Antlr3.Runtime.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Optimization.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Providers.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\WebGrease.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csprojResolveAssemblyReference.cache
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+E:\HỌC KỲ 1 2022-2023\LTWEB\bài của bạn khác\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll.config
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\QL_TraiCay.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Antlr3.Runtime.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Optimization.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Providers.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\WebGrease.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\EntityFramework.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\Newtonsoft.Json.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Net.Http.Formatting.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Http.WebHost.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Mvc.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.Razor.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.dll
+C:\Users\PC THAO\OneDrive\Máy tính\Nhom_10\QL_TraiCay\QL_TraiCay\obj\Debug\QL_TraiCay.pdb
